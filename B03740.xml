@@ -1,0 +1,214 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>England and Scotland vnited. With some pious observations thereupon, shewing our brethrens faithfulnesse in this cause. Frustrating the hope of our common adversary, to the downfall of heresies, errours, and schismes. / By I.H. a lover of truth peace and.</title>
+            <author>I.H.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B03740</idno>
+            <idno type="STC">Wing H45</idno>
+            <idno type="STC">ESTC R177770</idno>
+            <idno type="EEBO-CITATION">51617633</idno>
+            <idno type="OCLC">ocm 51617633</idno>
+            <idno type="VID">175250</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B03740)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175250)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2724:11)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>England and Scotland vnited. With some pious observations thereupon, shewing our brethrens faithfulnesse in this cause. Frustrating the hope of our common adversary, to the downfall of heresies, errours, and schismes. / By I.H. a lover of truth peace and.</title>
+                  <author>I.H.</author>
+               </titleStmt>
+               <extent>14 p.   </extent>
+               <publicationStmt>
+                  <publisher>for J.H.,</publisher>
+                  <pubPlace>Printed at London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>England --  Foreign relations --  Scotland --  Early works to 1800.</term>
+               <term>Scotland --  Foreign relations --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+               <term>Scotland --  Politics and government --  1625-1649 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Pip Willcox</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:175250:1"/>
+            <pb facs="tcp:175250:1"/>
+            <p>ENGLAND AND SCOTLAND VNITED.</p>
+            <p>WITH Some pious Obſervations there<g ref="char:EOLhyphen"/>upon, ſhewing our <hi>Brethrens faithful<g ref="char:EOLhyphen"/>neſſe</hi> in this Cauſe.</p>
+            <p>Fruſtrating the hope of our Common adver<g ref="char:EOLhyphen"/>ſary, to the downfall of <hi>Hereſies, Errours,</hi> and <hi>Schiſmes.</hi>
+            </p>
+            <p>By <hi>I. H.</hi> a Lover of Truth Peace and.</p>
+            <p>Imprimatur, <hi>James Cranford.</hi>
+            </p>
+            <p>Printed at <hi>London</hi> for <hi>J. H.</hi> 1647.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:175250:2"/>
+            <pb n="3" facs="tcp:175250:2"/>
+            <p>HAving peruſed much joyfull Newes from the North; I could not let it paſſe without ſome Obſervations thereon: I muſt confeſſe it is but a mite of thankfulneſſe, I could wiſh it might be a Monument, that being erected, might eternize the honour of the <hi>Scottiſh Nation,</hi> which they have pur<g ref="char:EOLhyphen"/>chaſed by their <hi>Fidelity to our Kingdome:</hi> I wiſh it might ſwell future Chronicles to large Volumes of Thankfulneſſe; let it be written in leaves of Marble with a pen of iron, that it may be able to withſtand the devouring teeth of envious Time, never, never to be forgotten, till all things ſhall confeſſe their aſhes; and time ſhall be no more. Would I could per<g ref="char:EOLhyphen"/>ſwade our <hi>Engliſh Country-men</hi> to prepare their hearts and enlarge their Meditations to let in theſe mercies, that our unworthineſſe tells us we have not merited; Here's a <hi>Union</hi> worthy to be commemorated to all poſterity: No more <hi>Anglia &amp; Scotia,</hi> but <hi>Brittany, Famous Brittany, England and Scotland united; Two</hi> made <hi>One.</hi>
+            </p>
+            <p>Here therefore you ſhall have in an <hi>Epitome</hi> the <hi>faithfulneſſe</hi> of our <hi>Brethren,</hi> a great deale of matter in a little roome: The Diſcourſe needs no <hi>Diviſion,</hi> it's of <hi>Union.</hi> To tell you of our Brethrens coming to our Aſſiſtance, were but to tell you, that that hath been delivered by former Pens.</p>
+            <pb n="4" facs="tcp:175250:3"/>
+            <p>One may obſerve very many circumſtances that makes this courteſie very acceptable, they <hi>own'd</hi> us, and that in the day of our diſtreſſe; they <hi>helpt</hi> us, when we could not <hi>helpe</hi> our ſelves, and when ſome that were <hi>amongst us,</hi> were riſen up <hi>againſt us.</hi>
+            </p>
+            <p>'Twere not <hi>unſeaſonable</hi> to ſpeake of the <hi>time</hi> in which they came into our aide, <hi>and helped the Lord against the mighty:</hi> They tooke a <hi>hard</hi> march, a <hi>hard</hi> taske, in a <hi>hard</hi> ſeaſon, fighting with a potent, ſtub<g ref="char:EOLhyphen"/>borne, powerfull adverſary, who was well appoin<g ref="char:EOLhyphen"/>ted, ready Garriſon'd, provided, and prepared to re<g ref="char:EOLhyphen"/>ceive an enemy, though very powerfull and formi<g ref="char:EOLhyphen"/>dable.</p>
+            <p>Amongſt the many things that might be ſpoken in our <hi>Brethrens</hi> commendation, this I account as none of the leaſt, <hi>viz.</hi> the great doubt which party would prove Conquerour; 'tis ſufficiently knowne with what variety of faces the truth of this appea<g ref="char:EOLhyphen"/>red, the moſt judicious could not tell, whether wee might be reckned amongſt the living or the dead.</p>
+            <p>But our <hi>provident</hi> God foreſaw all, the Lord of Hoſts (that was (and is) the giver of victory) hath crown'd our ſufferings with the happineſſe that wee now enjoy: Our <hi>Prayers</hi> are turned into <hi>praiſes,</hi> our <hi>fighs</hi> into <hi>Songs of deliverance;</hi> for our <hi>War</hi> we have peace, for <hi>feare</hi> of utter ruine, the fruits of a preſent happineſſe: For out former wants (in which we did abound) we have as much felicity, as the frailty of man is capable of: You know who it was that ſaid, <hi>Sorrowes may endure for a night,</hi>
+               <note place="margin">Pſal. <hi>30.5.</hi>
+               </note> 
+               <hi>but joy commeth in the morning:</hi> We have had our Night, a black, darke, ſad ſtormy Night, but now the bright beames of the
+<pb n="5" facs="tcp:175250:3"/>morning hath diſpel'd all theſe vapours, and we have our <hi>morning</hi> of happineſſe, after our <hi>night</hi> of miſery: We have had newes of this Towne loſt,<note place="margin">Witneſſe that bat barous act of P. Rupert at Bolton in Lancaſhire.</note> that Caſtle loſt, that Garriſon ſurrendred, another Fort yeel<g ref="char:EOLhyphen"/>ded, and all our men maſſacred: We had then many of <hi>Jobs</hi> meſſengers; but yet (we ſee) wee are left a<g ref="char:EOLhyphen"/>live as living <hi>Monuments</hi> of the <hi>Lords mercy,</hi> and doe reap the fruits of this bleſſedneſſe, which <hi>our Bre<g ref="char:EOLhyphen"/>thren</hi> have purchaſed with their deareſt blood.</p>
+            <p>And here I may fitly ſpeake a word of thoſe that dyed in defence of this cauſe, <hi>(Englands Cauſe for her Rights and Liberties)</hi> may we not envy their <hi>Happi<g ref="char:EOLhyphen"/>neſſe?</hi> they act their parts gloriouſly in Heaven, that acted them well on earth, they are raiſed to the high<g ref="char:EOLhyphen"/>eſt pitch of happineſſe, <hi>moſt</hi> fortunate, <hi>moſt</hi> bleſſed, <hi>moſt</hi> wiſe, <hi>moſt</hi> all, they dwell all upon ſuperlatives, <hi>Quis non optaret ſic moriendo mori?</hi> How noble is it to dye in a juſtified cauſe? A cauſe ſo juſt, ſo righte<g ref="char:EOLhyphen"/>ous, ſo equall, that we may juſtly pronounce thoſe unjuſt and wicked, that would have rather let it ſunk then patronize it:</p>
+            <p>Our luke-warmneſſe here at home could not doe that that their <hi>zeale</hi> hath performed, 'twas that that ſet them on this work and acted it for them: If I ſhould deſcend to particulars, and take a view and a regardfull ſearch of their zeale in this <hi>Reformation,</hi> I ſhould ſwell my Pamphlet beyond its intended bre<g ref="char:EOLhyphen"/>vity: I ſhall name one act of our Brethrens of late, (if I did not ſpeake, the thing would ſpeak it ſelf,) I muſt confeſſe it <hi>quadrates</hi> well with my <hi>Genius, viz.</hi> their care for the obſervation of the Lords day, to which end they have provided, and ſo ordered, that
+<pb n="6" facs="tcp:175250:4"/>no Fayres or Markets be kept on Mondayes or Sa<g ref="char:EOLhyphen"/>turdayes, and I hope there's none but will agree with me in this point, but that it is a very worthy act, a memorable Act, and worthy of our beſt imitations; they have hitherto chalkt out a way for our <hi>Reforma<g ref="char:EOLhyphen"/>tion;</hi> if we tread in their ſteps in this particular, the world wil not call us unhapy, having ſuch good Con<g ref="char:EOLhyphen"/>ductors, and ſo good a Copy to write after.</p>
+            <p>The two Tribes and a halfe,<note place="margin">Joſuah 22.</note> after they had helpt their <hi>Brethren</hi> to conquer the promiſed Land, in their returne homewards built an Altar of teſtimony, the end why is ſhewed in the 24. <hi>verſ.</hi> leſt the Children of <hi>Iſrael</hi> might ſay to the children of the two Tribes and a halfe, <hi>What have you to doe with the Lord God of Iſrael?</hi> The name of the Altar was <hi>Eol</hi> (which being tranſlated by the holy language) is  <hi>a Witneſſe,</hi> this was a <hi>Witnes,</hi> leſt in time to come the ſeed of the children of <hi>Iſrael</hi> might ſay to the ſeed of the two Tribes and a halfe, <hi>Yee have no part in the Lord:</hi> The plainneſſe of the Hiſtory applyes it ſelfe; if we can ſet up ſuch a Witneſſe between us for the Government of the Church, we ſhall be happy in a moſt abſolute man<g ref="char:EOLhyphen"/>ner: ſo far I have deviated from my circumſtances.</p>
+            <p>But now I come to one more, and that is of the ſea<g ref="char:EOLhyphen"/>ſonableneſſe of the deliverance; that in the very nick of time, they came in to doe us good; and when we <hi>found</hi> we could not <hi>find</hi> a way how to break the power of our Adverſaries, they interpoſed, and the contro<g ref="char:EOLhyphen"/>verſies ended, the queſtion's decided: To a poore condemned man there is nothing more acceptable as a pardon, and if it come in th'opportunity and nick of time (juſt before the intended execution)
+<pb n="7" facs="tcp:175250:4"/>nothing comes more welcome: The Application makes it ſelf. We were condemed, and (if fame were not too laviſh) our eſtates divided: The ſtory of them that bought the Beares skin is very remarkable, worthy onely to be <hi>imitated</hi> of ſuch greedy Chap<g ref="char:EOLhyphen"/>men. There's yet one thing that heightens the De<g ref="char:EOLhyphen"/>liverance, and that is that, after the burthen had laine ſo long upon our backes that it ſhould then be removed, when our miſeries were at the higheſt pitch, in the ſuperlative degree, the addition of more miſeries could ſcarce have made us more miſerable; who's then more welcome then a deliver? When a <hi>Goliah</hi> was in Armes againſt <hi>Iſrael,</hi> who more accep<g ref="char:EOLhyphen"/>table then a <hi>David?</hi> whoſe part our <hi>Brethren</hi> hath ſo well acted, as that I am ſorry for nothing more then that we are not able to reward them.</p>
+            <p>Wee were a long ſeaſon in the Furnace, but the ſeaſonableneſſe of the deliverance makes us forget all former miſeries; <hi>Barclay</hi> ſayes,<note place="margin">Barclay Icun. Animorum.</note> 
+               <hi>That warres ne<g ref="char:EOLhyphen"/>ver laſt ſo long in England as in other Lands.</hi> Coſtly<g ref="char:punc">▪</g> experience tels us, this is rather a Fable then a Chro<g ref="char:EOLhyphen"/>nicle: You cannot think but that we eſcaped from <hi>Scythian cruelty,</hi> when we were like to be brought in<g ref="char:EOLhyphen"/>to an unworthy ſervitude; and <hi>vertue</hi> was like to be<g ref="char:EOLhyphen"/>come a ſlave to thoſe that had ſold themſelves to <hi>Vitiouſneſſe.</hi>
+            </p>
+            <p>Now (I hope) you will ſay, if theſe things deſerve not an obſervation, and a perpetuall commemorati<g ref="char:EOLhyphen"/>on to the honour of that famous Kingdome, the World will call's unthankfull.</p>
+            <p>
+               <hi>Come</hi> we neerer to our <hi>Brethren</hi> that are gone from us, their names ſhall laſt the longeſt length of time,
+<pb n="8" facs="tcp:175250:5"/>they are equivalent to the very beſt of men, inferi<g ref="char:EOLhyphen"/>our to none, the ſingular Ornaments of this Age, <hi>Europes</hi> wonder: Theſe expreſſions proceed from me, becauſe I do not deſire that Valour ſhould have Oblivion for its grave: But the memory of their Opponents ſhall periſh, and their names ſhall bee buried in the eternall night of Oblivion: And yet if you will have them recorded, let it bee in times brazen-leaved booke with ignominy and diſgrace, there to remaine as a <hi>Caveat</hi> for Generations yet unborne.</p>
+            <p>Our <hi>Brethrens</hi> carriage in theſe late affaires hath been terrible to their (and out) enemies, feare ſtri<g ref="char:EOLhyphen"/>king amazements to our Adverſaries, that ere now have bin ſo numerous, that the ſpacious fields could hardly afford roome for their armed Troopes; and now we ſee by our <hi>Brethrens valour, fidelity and aſſiſt<g ref="char:EOLhyphen"/>ance,</hi> they are reduced to a better method, there ſcarce remaining a ſtump or ſtem of that huge Tree, that one while over-ſpread whole Countries: for <hi>this</hi> their fame is gone out thorow the ſpacious Orb, and their victorious hands will be remembred by all ſuc<g ref="char:EOLhyphen"/>ceeding Generations.</p>
+            <p>Their <hi>zeale, their juſtice, their magnanimity</hi> hath made them inferiour to none of their Predeceſſors in greatneſſe of true glory, never, never to be blot<g ref="char:EOLhyphen"/>ted out of the Regiſters of memory.</p>
+            <p>And leſt forgetfull time ſhould make us liable to ingratitude, 'twere not unfit that there were an an<g ref="char:EOLhyphen"/>nuall Obſervation of this our <hi>Brethrens Deliverance;</hi> and that as we are wont to write from the <hi>Gunpowder-Treaſon</hi> ſo many yeeres: from the <hi>Spaniſh-Armado</hi>
+               <pb n="9" facs="tcp:175250:5"/>ſo many yeeres; ſo to adde this to the reſt, <hi>Since Englands grand Deliverance from her plundring conſpi<g ref="char:EOLhyphen"/>rators,</hi> ſo many yeeres: A plot that equallizes any of theſe two famous Deliverances, an adverſary that would have diſpoiled us of our lives, livelihoods, goods and fortunes, and (had it been feacible) they would have plundred us of our <hi>God,</hi> of our <hi>Religion,</hi> of our <hi>being</hi> and <hi>well-being.</hi> I hope <hi>(you well borne Engliſhmen)</hi> your hearts will tell you that I ſpeak no more then the greatneſſe of this <hi>Deliverance</hi> calls for.</p>
+            <p>'Twere eaſie to be infinite, the deeper I dig in this golden Mine, the more my fancy is inriched; yet all this will ſpeak us <hi>Atheiſts,</hi> if we ſpeak no other lan<g ref="char:EOLhyphen"/>guage before the concluſion. We know why <hi>Herod</hi> was eaten up of wormes,<note place="margin">Acts 12.23.</note> 
+               <hi>becauſe he gave not God the glory:</hi> Let us look then to that <hi>primum mobile, In whom we live, and move, and have our being:</hi>
+               <note place="margin">Acts 17.28.</note> Let the glory of the day be given to him that is the <hi>Giver</hi> of the day; we doe not attribute theſe performances to man, we know that he is not proportion'd for ſuch employments, ſuch high affaires; Man is not able to conquer <hi>himſelfe,</hi> much leſſe his <hi>enemies.</hi>
+            </p>
+            <p>But one Obſervation I mark in our Adverſaries, they were haughty and ſelf-confiding men, when as we know that there is no ſuch enemy as a patient, humble, ſelf-denying enemy: Experience teaches us, that the higheſt ſtructures have the loweſt foun<g ref="char:EOLhyphen"/>dations; and it is not the high Towring Rocks, but the humble Valleys that are fruitfull.</p>
+            <p>And now let us imitate the Prophet <hi>David,</hi> who after the receivall of many mercies, poſes himſelfe with a <hi>What ſhall I render?</hi> When we are in afflicti<g ref="char:EOLhyphen"/>ons,
+<pb n="10" facs="tcp:175250:6"/>the firſt thing is <hi>Prayer,</hi> and being delivered, the next muſt be <hi>prayſe;</hi> ſo that we may conclude that there's no <hi>deliverance,</hi> where God does not foreſee a <hi>Thankfulneſſe;</hi> without this we ſhall be without God.</p>
+            <p>If we receive the Lords Mercies without a grate<g ref="char:EOLhyphen"/>full retribution, and an humble acknowledgement; we ſhall turne his Mercies into Judgements, his Bleſſings into curſes, 2 Cor. 7.21, 22.</p>
+            <p>There's mention made of <hi>Solomons</hi> Temple, how that if then the people (a people of ſo many mer<g ref="char:EOLhyphen"/>cies) ſhould fall off, <hi>why this houſe which is ſo high ſhall be an aſtoniſhment to every one that paſſeth; ſo that he ſhall aske, why hath the Lord done this unto this Land?</hi> If we be ungratefull, <hi>Pharoah</hi> like our hearts will be hardned; and as Gods Mercies increaſes, ſo will our ſinnes.</p>
+            <p>Let <hi>us therefore of this City</hi> imitate the <hi>Citizens of Samaria,</hi>
+               <note place="margin">Acts 8.</note> where we read that the Church was much in affliction, and much in Deliverance, much in ſorrow and much in joy; ſorrow for their afflicti<g ref="char:EOLhyphen"/>ons, joy for their deliverance.</p>
+            <p>And therefore in the 8. <hi>verſ.</hi> it is ſaid, <hi>There was great joy in that City;</hi>
+               <note place="margin">Prov. 11.10.</note> And Prov. 11.10. <hi>VVhen it goeth well with the City, the Righteous rejoyceth:</hi> the words may be very well inverted.</p>
+            <p>Gods people are ſometimes a <hi>mourning</hi> people, a<g ref="char:EOLhyphen"/>non a <hi>rejoycing</hi> people, in variety of eſtates and con<g ref="char:EOLhyphen"/>ditions, in <hi>Canaan</hi> and in <hi>Egypt,</hi> 12. wells of waters at <hi>Elim,</hi> but bitter water at <hi>Maras.</hi>
+            </p>
+            <p>We have had our Aegyptian bondage, now wee have our bleſſed Liberty and refreſhment.</p>
+            <pb n="11" facs="tcp:175250:6"/>
+            <p>I thinke if I ſhould here lay downe ſome Argu<g ref="char:EOLhyphen"/>ments that calls for thanks, it were not amiſſe, but truly I finde them ſo many, and ſo great, that I ſtand amazed which to touch at firſt, here's poverty in plenty.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="1"/> Firſt then, for the Goſpell, it being a bleſſing, the fruit of which, becauſe we alwayes enjoy, wee ſhould alwayes acknowledge in an eminent man<g ref="char:EOLhyphen"/>ner, the enjoyment of which in its purity is derived down to us from our Brethrens Fidelity.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="2"/> For the <hi>thrice-fortunate</hi> and famous union of the two Nations; this multiplies and advances our joyes; Now wee muſt pray that theſe two thus joyned, thus made <hi>one,</hi> by an invincible <hi>Union;</hi> may ever bee able to preſerve out joyes, that theſe Great Joyes may procure Great Acknowledge<g ref="char:EOLhyphen"/>ments; ſo that by this our Happy <hi>Union</hi> no For<g ref="char:EOLhyphen"/>raigne Enemy (how potent ſoever) unleſſe hee be weary of his owne Fortunes, will dare ever to of<g ref="char:EOLhyphen"/>fend us.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="3"/> 
+               <note place="margin">Armado.</note>And if we look to our Anceſtors, there's an 88. a famous deliverance.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="4"/> 
+               <note place="margin">Powd. plot.</note>And that other miraculous deliverance that is ſtill freſh in our memories, of 1625.</p>
+            <p>
+               <milestone type="tcpmilestone" unit="unspecified" n="5"/> 
+               <note place="margin">Parliam.</note>And then (for I cannot number them all) if we come to mercies of a latter date, and never to our ſelves; how many Obligations of thankfulneſſes lies upon this Kingdom for this Parliament?<note place="margin">E cujus pen<g ref="char:EOLhyphen"/>det noſtra ſa<g ref="char:EOLhyphen"/>lute ſalus.</note> whom God hath given to regulate the inconveniences, exorbi<g ref="char:EOLhyphen"/>tancies and errors, both in Church and State; when
+<pb n="12" facs="tcp:175250:7" rendition="simple:additions"/>as a famous Writer of this age ſaith;<note place="margin">Dr. Browne in his Religio Medici.</note> that by the am<g ref="char:EOLhyphen"/>bition and avarice of Prelates, the fatall corruption of Times, Religion has bin decayed, impair'd, and faln from its native Integrity: in ſo much that it re<g ref="char:EOLhyphen"/>quired the careful and charitable hand of theſe times to reſtore it to its primitive Integritie; by theſe Worthies we enjoy what we doe enjoy: if I ſhould goe about to particularize, there would not be room for all our Miſeries, nor for all our Mercies.</p>
+            <p>I ſhould come in a word or two more to our <hi>Bre<g ref="char:EOLhyphen"/>thren,</hi> for my zeale to them makes me confeſſe, <hi>that there's no mercy that I enjoy, but next under God) I ac<g ref="char:EOLhyphen"/>count them the Authors of it.</hi> I ſhould not conclude here were it not for that they ſay of <hi>Hercules, who e<g ref="char:EOLhyphen"/>ver diſprais'd him but an Enemie?</hi> There's none that ſpeakes <hi>ill</hi> of them, that deſerves ſo <hi>well,</hi> unleſſe it be their enemies, whoſe tongue at no time is a ſlander.</p>
+            <p>And now I ſhould here have concluded, were it not for ſome new thoughts that doe ariſe, and that is the diſappointment of all our adverſaries that did waite upon our diviſions, and would have boaſted at our falling out. And of them we know that there are two ſorts, the one an open profeſſed enemy, one that not long ſince was in open Rebellion againſt the Parlia<g ref="char:EOLhyphen"/>ment, a Malignant, ſtubborn adverſary; the other the cloſe private Sectary, which mingles himſelf amongſt us, and goes along with us in many things, yet per<g ref="char:EOLhyphen"/>haps he alſo would have rejoyced to have ſeene us ru<g ref="char:EOLhyphen"/>ine each other, their hopes are both fruſtrated: con<g ref="char:EOLhyphen"/>cerning the former I thinke it in vaine to uſe any arguments to perſwade them.</p>
+            <p>And for the latter, I wiſh I could bring any water
+<pb n="13" facs="tcp:175250:7"/>to quench theſe flames, when ſo many adde oyle to augment them: 'Tis now come to it, that there is ſcarce a man that can enjoy a <hi>ſingularity</hi> in an error, without an <hi>Hereſie;</hi> not be the Author of an opi<g ref="char:EOLhyphen"/>nion, without he be of a ſect alſo.</p>
+            <p>The nature of Hereſie is like a Gangrene, and they that are troubled with it, never think it to be ſpread farre enough, till it be Epidemicall, univerſall.</p>
+            <p>If God would make us but Maſters of ſo great a happineſſe, as to be freed from the unſupportable burthen of the unhappineſſe, that is like to fall upon us, (if theſe <hi>errours</hi> and <hi>Hereſies</hi> doe ſo ſpread a<g ref="char:EOLhyphen"/>mongſt us) we ſhould be the onely happy people upon the earth. Let us hate <hi>ſuperſtitious Popery,</hi> and avoid <hi>licentious Liberty,</hi> and deſire that the <hi>Presbytery</hi> may decide this great <hi>Church-controverſie.</hi>
+            </p>
+            <p>
+               <hi>There's an errour on the right hand, ſo there is on the left,</hi> Theev<gap reason="illegible" resp="#OXF" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s on both ſides, only Chriſt in the midſt: But we are onely able to ſpeake of theſe things, there is a ſupreme power that muſt put life into our de<g ref="char:EOLhyphen"/>ſires, therefore we muſt pray that he would make a comfortable cloſe of our ſad diviſions, and poure forth the Spirit of Reconciliation into the hearts of the people of this divided Nation.</p>
+            <p>There's no doubt but this <hi>Union, England and Scot<g ref="char:EOLhyphen"/>land united,</hi> is the moſt incomparable <hi>Medium,</hi> for the ſetling of the <hi>Presbytery,</hi> and the extirpation of <hi>He<g ref="char:EOLhyphen"/>reſies, errours,</hi> and <hi>ſchiſmes,</hi> that ever could be hoped for. For now that being ſetled in its <hi>purity, power,</hi> and <hi>priviledges,</hi> there will be no longer any <hi>roome</hi> for
+<pb n="14" facs="tcp:175250:8"/>
+               <hi>now fangled deviſes, ſtrange opinions</hi> being onely the excrements of ſome brain-ſick <hi>Novellers.</hi>
+            </p>
+            <p>Of which one may ſay according to the old Pro<g ref="char:EOLhyphen"/>verbe, <hi>So many men, ſo many mindes: Quot capita, tot corda:</hi> The <hi>many-headed multitude</hi> being ſo divided, that if <hi>Diogenes</hi> himſelfe were here with his Lant<g ref="char:EOLhyphen"/>horne and candle light to ſay <hi>Quaero hominem, I ſeeke a man, I ſeek a man,</hi> he would ſcarce finde two of the ſame minde.</p>
+            <p>Now we <hi>leave</hi> our Brethren that have <hi>left</hi> us, to <hi>extirpate our errours, hereſies,</hi> and <hi>ſchiſmes,</hi> being mar<g ref="char:EOLhyphen"/>ched away into their owne Kingdome to extirpate <hi>Montroſſe,</hi> and the reſt of that Rebell-crew.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
